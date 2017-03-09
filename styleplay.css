@@ -34,7 +34,7 @@ div.audio-player {
 	height: 64px;
 	top: 30px;
 	left: 28px;
-	content:"\e80a";
+	background: transparent url(https://cloud.githubusercontent.com/assets/26308997/23765262/02de67de-04d7-11e7-8f2e-dd04d37c2e00.png) 0 0;
 }
 
 .mejs-controls .mejs-pause button { background-position:0 -64px; }
