@@ -34,7 +34,7 @@ div.audio-player {
 	height: 64px;
 	top: 30px;
 	left: 28px;
-	background: transparent url(https://multiversonews.com/wp-content/uploads/2017/03/play-pause.png) 0 0;
+	content:"\e80a";
 }
 
 .mejs-controls .mejs-pause button { background-position:0 -64px; }
