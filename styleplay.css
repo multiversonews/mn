@@ -46,7 +46,7 @@ div.audio-player {
 	height: 21px;
 	top: 50px;
 	left: 120px;
-	background: transparent url(../img/mute-unmute.png) 0 0;
+	background: transparent url(https://1.bp.blogspot.com/-1_lyiRDgH4s/WMGehlK-RTI/AAAAAAAASvw/NPiQEW_8VU8l9luE8LzAocIxLGGgb15BACPcB/s1600/mute-unmute.png) 0 0;
 }
 
 .mejs-controls .mejs-unmute button { background-position: 0 -20px; }
@@ -119,7 +119,7 @@ div.audio-player {
 	width: 12px;
 	height: 14px;
 	top: -4px;
-	background: url(../img/handle.png) no-repeat;
+	background: url(https://2.bp.blogspot.com/--JmIJQgoeJY/WMGehncNNJI/AAAAAAAASv0/w_rmngV2gtc_HXG4IYXjRGtA4hjj32MeACPcB/s1600/handle.png) no-repeat;
 }
 
 .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle { top: -2px; }
@@ -132,7 +132,7 @@ div.audio-player {
 	height: 23px;
 	top: -26px;
 	margin-left: -17px;
-	background: url(../img/time-box.png);
+	background: url(https://4.bp.blogspot.com/-y60mt9HH1Gc/WMGeiCHXEZI/AAAAAAAASv4/avvtu2riFqUAjthvNHaVtfsyV_puQfS3QCPcB/s1600/time-box.png);
 }
 
 .mejs-controls .mejs-time-rail .mejs-time-float-current {
